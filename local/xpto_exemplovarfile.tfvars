@@ -1,0 +1,1 @@
+conteudovarfile="vindo do tfvars -var-file"
